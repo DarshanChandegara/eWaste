@@ -1,0 +1,51 @@
+.login {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .password-input-group {
+    display: flex;
+    align-items: center;
+  }
+  
+  .show-password-checkbox {
+    margin-left: 10px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .show-password-checkbox input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  
+  .btn-primary {
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    width: 100%;
+    max-width: 200px;
+  }
+  
